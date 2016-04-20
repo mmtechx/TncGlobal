@@ -1,2 +1,9 @@
 Domain Registrations: $120.00
 Remaining Balance: $750.00
+
+
+
+
+tncglobal.net.au
+ftp login: tncglobalnet
+ftp password: tncglobal123
