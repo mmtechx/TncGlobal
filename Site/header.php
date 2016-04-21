@@ -15,7 +15,7 @@
                 <div class="col-sm-6 col-xs-8">
                    <div class="social">
                         <ul class="social-share">
-                            <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/tncglobal.pty.ltd/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                             <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
                             <li><a href="#"><i class="fa fa-dribbble"></i></a></li>

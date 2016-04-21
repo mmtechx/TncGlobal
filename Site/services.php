@@ -71,13 +71,14 @@
                         </div>
                     </div><!--/.col-md-4-->
 
-                    <!-- <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
-                            <i class="fa fa-heart"></i>
-                            <h2>Labore et dolore</h2>
+                            <i class="fa fa-cogs"></i>
+                            <h2><a href="#specialisation">Supply Chain Management</a></h2>
                             <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
                         </div>
-                    </div> --><!--/.col-md-4-->
+                    </div><!--/.col-md-4-->
+
                 </div><!--/.services-->
             </div><!--/.row--> 
         </div>
