@@ -1046,11 +1046,6 @@ a.accordion-toggle  i{
   border-bottom: 0 none;
 }
 
-#partner {
-  /*background: #000 url(../images/partners/partner_bg.jpg) no-repeat 100% 20%;*/
-  
-}
-
 .partnerBgImage{
   background-image: url(../images/partners/partner_bg.jpg);
   opacity: 0.6;
@@ -1083,8 +1078,8 @@ a.accordion-toggle  i{
 
 .partners ul li{
   display: inline-block;
-  float: left;
-  width: 33%;
+  float: none;
+  width: 25%;
 }
 
 #conatcat-info{
