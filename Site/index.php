@@ -3,8 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
+    <meta name="keywords" content="TNC Global, Consultancy, Project Management, Design Management, Products, Equipments, Packaging, food processing, engineering, hospitality, manufacturing, pharceutical, food safety, business model, supply chain, 
+                                    quality assurance, ports, Hygiene"/>
+    <meta name="description" content="TNC Global is a privately owned internationally focused Australian owned business. We operate an integrated business model with the full range of food processing industries, engineering and services delivering."/>
+
     <title>Home | TNC Global Pty Ltd</title>
 	
 	<!-- core CSS -->
@@ -50,7 +53,7 @@
                                     <h1 class="animation animated-item-1">We are capable of supplying products</h1>
                                     <h2 class="animation animated-item-2">in a timely, efficient and flexible manner to meet the needs of our customers...</h2>
                                 </div>
-                                <a class="btn-slide animation animated-item-3" href="services.html">Read More</a>
+                                <a class="btn-slide animation animated-item-3" href="services.php">Read More</a>
                             </div>
 
                             <!-- <div class="col-sm-6 hidden-xs animation animated-item-4">
@@ -70,7 +73,7 @@
                                     <h1 class="animation animated-item-1">Our aim is to have a positive impact on our customer’s </h1>
                                     <h2 class="animation animated-item-2">time and resources and contribute to their overall business success...</h2>
                                 </div>
-                                <a class="btn-slide animation animated-item-3" href="services.html">Read More</a>
+                                <a class="btn-slide animation animated-item-3" href="services.php">Read More</a>
                             </div>
                             <!-- <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
@@ -88,7 +91,7 @@
                                     <h1 class="animation animated-item-1">We constantly create and develop methodologies</h1>
                                     <h2 class="animation animated-item-2">that serve as the framework for our daily tasks...</h2>
                                 </div>
-                                <a class="btn-slide animation animated-item-3" href="services.html">Read More</a>
+                                <a class="btn-slide animation animated-item-3" href="services.php">Read More</a>
                             </div>
                             <!-- <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
@@ -106,7 +109,7 @@
                                     <h1 class="animation animated-item-1">Hygiene and food safety is critical to food processing</h1>
                                     <h2 class="animation animated-item-2">to ensure that food products are fit for human consumption...</h2>
                                 </div>
-                                 <a class="btn-slide animation animated-item-3" href="services.html">Read More</a>
+                                 <a class="btn-slide animation animated-item-3" href="services.php">Read More</a>
                             </div>
                             <!-- <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
@@ -124,7 +127,7 @@
                                     <h1 class="animation animated-item-1">We are governed by </h1>
                                     <h2 class="animation animated-item-2">the guiding principles of innovation, resourcefulness, proactiveness and accuracy...</h2>
                                 </div>
-                                <a class="btn-slide animation animated-item-3" href="services.html">Read More</a>
+                                <a class="btn-slide animation animated-item-3" href="services.php">Read More</a>
                             </div>
 
                             <!-- <div class="col-sm-6 hidden-xs animation animated-item-4">
@@ -188,7 +191,7 @@
                             <img class="img-responsive" src="images/services/foodprocessing.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading"><a href="services.html">Food Processing</a></h3>
+                            <h3 class="media-heading"><a href="services.php">FMCG</a></h3>
                             <p>Hygiene and food safety is critical to food processing to ensure that food is fit for human consumption</p>
                         </div>
                     </div>
@@ -200,7 +203,7 @@
                             <img class="img-responsive" src="images/services/engineering.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading"><a href="services.html">Engineering</a></h3>
+                            <h3 class="media-heading"><a href="services.php">Engineering</a></h3>
                             <p>We constantly create and develop methodologies that serve as the framework for our daily tasks</p>
                         </div>
                     </div>
@@ -212,7 +215,7 @@
                             <img class="img-responsive" src="images/services/hospitality.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading"><a href="services.html">Hospitality</a></h3>
+                            <h3 class="media-heading"><a href="services.php">Hospitality</a></h3>
                             <p>Our aim is to have a positive impact on our customer's resources and contribute to their business success</p>
                         </div>
                     </div>
@@ -224,7 +227,7 @@
                             <img class="img-responsive" src="images/services/manufacturing.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading"><a href="services.html">Manufacturing</a></h3>
+                            <h3 class="media-heading"><a href="services.php">Manufacturing</a></h3>
                             <p>Quality improvement comes via simplification of design, manufacturing and processes</p>
                         </div>
                     </div>
@@ -236,7 +239,7 @@
                             <img class="img-responsive" src="images/services/packaging.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading"><a href="services.html">Packaging</a></h3>
+                            <h3 class="media-heading"><a href="services.php">Packaging</a></h3>
                             <p>We are capable of supplying products in a timely, efficient and flexible manner to meet the needs of our customers</p>
                         </div>
                     </div>
@@ -248,7 +251,7 @@
                             <img class="img-responsive" src="images/services/pharmaceutical.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading"><a href="services.html">Pharmaceutical</a></h3>
+                            <h3 class="media-heading"><a href="services.php">Pharmaceutical</a></h3>
                             <p>We are governed by the guiding principles of innovation, resourcefulness, proactiveness and accuracy</p>
                         </div>
                     </div>

@@ -3,8 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
+    <meta name="keywords" content="TNC Global, About us, Consultancy, Project Management, Design Management, Products, Equipments, Packaging, food processing, engineering, hospitality, manufacturing, pharceutical, food safety, business model, supply chain, 
+                                    quality assurance, ports, Hygiene"/>
+    <meta name="description" content="TNC Global is a privately owned internationally focused Australian owned business. We operate an integrated business model with the full range of food processing industries, engineering and services delivering."/>
+
     <title>About Us | TNC Global Pty Ltd</title>
 	
 	<!-- core CSS -->
@@ -47,15 +50,16 @@
 				  	</ol>
 
 					<div class="carousel-inner">
+						<div class="item">
+							<img src="images/about-us/slider_one.jpg" class="img-responsive" alt=""> 
+					    </div> 
 						<div class="item active">
-							<img src="images/slider_one.jpg" class="img-responsive" alt=""> 
-					   </div>
-					   <div class="item">
-							<img src="images/slider_one.jpg" class="img-responsive" alt=""> 
-					   </div> 
-					   <div class="item">
-							<img src="images/slider_one.jpg" class="img-responsive" alt=""> 
-					   </div> 
+							<img src="images/about-us/slider_two.jpg" class="img-responsive" alt=""> 
+					    </div>
+					    <div class="item">
+							<img src="images/about-us/slider_three.jpg" class="img-responsive" alt=""> 
+					    </div> 
+					   
 					</div>
 					
 					<a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
@@ -129,6 +133,13 @@
 					<p>At the heart of our drive to challenge and change the service industry are our people and our clients. We believe in employing and developing, offering and providing the very best solutions to our clients to find and follow a better way and deliver excellence for our clients.</p>
 					<p>To further focus on our desire and passion to become a real employer of choice, we are working hard on the extra ordinary – this includes the introduction. Together with our customers, ambassadors and supporters, Wurth Australia is well on the way to becoming the No 1 supplier of assembly and fastening materials.</p>
 				</div>
+
+				<div class="wow fadeInDown">
+					<h2>Environmental Responsibility</h2>
+					<p>Here at TNC Global is committed to operating an environmentally-sustainable business and commit to comply with the environmental management system. We also promote a healthy and environmentally-friendly alternative to our clients.</p>
+					<p>Throughout our network, we continually look for ways to reduce total energy use and food miles and are implementing a variety of initiatives to reduce our environmental impact.</p>
+					<p>Our Procurement team also continues to implement packaging and products improvements to meet rising customer expectations for performance and safety, while also reducing waste, cost and our environmental footprint. Our “Guiding Principles for Environmentally Preferred Purchasing” ensure that sustainability-related factors are taken into consideration when buying decisions are made.</p>
+				</div>
 			</div>
 
 			<!-- our-team -->
@@ -138,132 +149,6 @@
 					<p class="lead">TNC Global takes pride in the team of professionals we have on board to service your business. The team’s experience covers a range of industries from food and beverages to engineering, Ports and manufacturing giving them an inherent advantage in understanding their particular business needs.</p>
 				</div>
 
-				<div class="row clearfix">
-					<div class="col-md-4 col-sm-6">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man1.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div><!--/.col-lg-4 -->
-					
-					
-					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man2.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div><!--/.col-lg-4 -->					
-				</div> <!--/.row -->
-				<div class="row team-bar">
-					<div class="first-one-arrow hidden-xs">
-						<hr>
-					</div>
-					<div class="first-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-up"></i>
-					</div>
-					<div class="second-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-down"></i>
-					</div>
-					<div class="third-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-up"></i>
-					</div>
-					<div class="fourth-arrow hidden-xs">
-						<hr> <i class="fa fa-angle-down"></i>
-					</div>
-				</div> <!--skill_border-->       
-
-				<div class="row clearfix">   
-					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man3.jpg" alt=""></a>
-								</div>
-
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-6 col-md-offset-2">
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-							<div class="media">
-								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man4.jpg" alt=""></a>
-								</div>
-								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
-									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
-									</ul>
-									<ul class="social_icons">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div><!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-						</div>
-					</div>
-				</div>	<!--/.row-->
 			</div><!--section-->
 		</div><!--/.container-->
     </section><!--/about-us-->

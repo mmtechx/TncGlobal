@@ -175,7 +175,7 @@ body > section {
 **************************/
 
 .navbar-header{
-	height: 85px;
+	height: 110px;
 }
 
 #header .search{
@@ -276,7 +276,7 @@ input.search-form:hover {
 }
 
  .navbar-nav{
-  margin-top: 25px;
+  margin-top: 35px;
  }
 
 .navbar-nav>li{
