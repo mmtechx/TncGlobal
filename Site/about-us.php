@@ -51,13 +51,13 @@
 
 					<div class="carousel-inner">
 						<div class="item">
-							<img src="images/about-us/slider_one.jpg" class="img-responsive" alt=""> 
+							<img src="images/about-us/slider_one.jpg" class="thumbnail img-responsive" alt=""> 
 					    </div> 
 						<div class="item active">
-							<img src="images/about-us/slider_two.jpg" class="img-responsive" alt=""> 
+							<img src="images/about-us/slider_two.jpg" class="thumbnail img-responsive" alt=""> 
 					    </div>
 					    <div class="item">
-							<img src="images/about-us/slider_three.jpg" class="img-responsive" alt=""> 
+							<img src="images/about-us/slider_three.jpg" class="thumbnail img-responsive" alt=""> 
 					    </div> 
 					   
 					</div>

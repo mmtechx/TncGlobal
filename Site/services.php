@@ -38,7 +38,9 @@
         <div class="container">
            <div class="center wow fadeInDown">
                 <h2>Our Services</h2>
-                <p class="lead">TNC Global is specialised in supplying products and meeting demand of various industries such as:</p>
+                <p class="lead">We help them succeed by delivering quality products, innovative solutions, and great customer service.<br />
+We strive to create value for our customers by focusing on more vertically integrated building solutions rather than separate products. We invest time in our relationships, listening closely to understand our customers' needs, and then provide superior building materials and innovative solutions tailored to their specific construction needs.
+</p>
             </div>
 
             <div class="row">
@@ -46,40 +48,45 @@
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-bullhorn"></i>
-                            <h2><a href="#consultation">Consultancy</a></h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <!-- <h2><a href="#consultation">Consultancy</a></h2> -->
+                            <h2>Consultancy</h2>
+                            <h3>We are committed to the development of culture based on excellence plus performance, client focus, innovation and business development.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-comments"></i>
-                            <h2><a href="#projectManagement">Project Management</a></h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <!-- <h2><a href="#projectManagement">Project Management</a></h2> -->
+                            <h2>Project Management</h2>
+                            <h3>Our approach is led by an unwavering focus on fully understanding the needs of clients and delivering on our promises.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-leaf"></i>
-                            <h2><a href="#designManagement">Design Management</a></h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <!-- <h2><a href="#designManagement">Design Management</a></h2> -->
+                            <h2>Design Management</h2>
+                            <h3>As a company we are passionate about harnessing innovation as a positive force for change.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-cogs"></i>
-                            <h2><a href="#specialisation">Product and Equipment Specialisation</a></h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <!-- <h2><a href="#specialisation">Product and Equipment Specialisation</a></h2> -->
+                            <h2>Product and Equipment Specialisation</h2>
+                            <h3>Our aim is to have a positive impact on our customer’s time and resources and contribute to their overall business success.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-bar-chart"></i>
-                            <h2><a href="#specialisation">Supply Chain Management</a></h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <!-- <h2><a href="#specialisation">Supply Chain Management</a></h2> -->
+                            <h2>Supply Chain Management</h2>
+                            <h3>We recognize that the global industrial concept is shifting toward more cost-effective, efficient, and environmentally friendly solutions.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
@@ -87,7 +94,8 @@
             </div><!--/.row--> 
         </div>
     </section>
-    <section id="consultation">
+
+    <!-- <section id="consultation">
         <div class="container">
             <div class="wow fadeInDown">
                 <h2>Consultancy</h2>
@@ -130,14 +138,14 @@
                 <p>As a company we are passionate about harnessing innovation as a positive force for change. We instil this mindset culturally in every element of our operations and project delivery.</p>
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="transparent-bg">
         <div class="container">
             <div class="get-started center wow fadeInDown">
                 <h2>Ready to get started</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore  magna aliqua. <br>  Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
                 <div class="request">
-                    <h4><a href="contact-us.html">Request a free Quote</a></h4>
+                    <h4><a href="contact-us.php#contact-page">Request a free Quote</a></h4>
                 </div>
             </div><!--/.get-started-->
 

@@ -1158,6 +1158,68 @@ a.accordion-toggle  i{
   color:#4e4e4e;
 }
 
+
+#segments .nav-pills{
+  margin-left: 25%;
+}
+
+#segments .nav-pills .disabled a:hover{
+  cursor: default;
+}
+
+
+.segment-carousel-slider {
+  position: relative;
+  margin-left: 10%;
+}
+
+.segment-carousel-slider .carousel-indicators {
+  bottom: -25px;
+}
+
+.segment-carousel-slider .carousel-indicators li {
+  border: 1px solid #ffbd20;
+}
+
+.segment-carousel-slider a i {
+  border: 1px solid #777;
+  border-radius:50%;
+  font-size: 28px;
+  height: 50px;
+  padding: 8px;
+  position: absolute;
+  top: 50%;
+  width: 50px;
+  color:#777;
+}
+
+.segment-carousel-slider a i:hover {
+  background-color: #f7a300;
+  color: #fff;
+}
+
+.segment-carousel-slider 
+.carousel-control {
+  width:inherit;
+}
+
+.segment-carousel-slider .carousel-control.left i {
+  left:-25px
+}
+
+.segment-carousel-slider .carousel-control.right i {
+  right: 65px;
+}
+
+.segment-carousel-slider
+.carousel-control.left, 
+.segment-carousel-slider
+.carousel-control.right {
+  background: none;
+}
+
+
+
 #carousel-slider {
   position: relative;
 }
@@ -1183,9 +1245,13 @@ a.accordion-toggle  i{
 }
 
 #carousel-slider a i:hover {
-  background:#bfbfbf;
+  /*background:#bfbfbf;
   color:#fff;
-  border: 1px solid #bfbfbf;
+  border: 1px solid #bfbfbf;*/
+  background-color: #f7a300;
+  color: #fff;
+  
+  /*border: 1px solid #bfbfbf;*/
 }
 
 #carousel-slider 
