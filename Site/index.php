@@ -170,8 +170,8 @@
     <section id="intro" >
         <div class="container">
            <div class="center wow fadeInDown">
-                <p class="lead">TNC Global is a privately owned internationally focused Australian owned business with highly skilled capabilities spanning the entire client value chain. We operate an integrated business model comprising the full range of food processing industries, engineering and services delivering single source solutions for the well-known Australian businesses.
-                </p>
+                <p class="lead">"TNC Global is a privately owned internationally focused Australian owned business with highly skilled capabilities spanning the entire client value chain. We operate an integrated business model comprising the full range of 
+                food processing industries, engineering and services delivering single source solutions for the well-known Australian businesses."</p>
             </div>
         </div>
     </section>

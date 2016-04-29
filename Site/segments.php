@@ -108,13 +108,14 @@
 				    <li data-target="#fmcg-carousel-slider" data-slide-to="1"></li>
 				    <li data-target="#fmcg-carousel-slider" data-slide-to="2"></li>
 				    <li data-target="#fmcg-carousel-slider" data-slide-to="3"></li>
+				    <li data-target="#fmcg-carousel-slider" data-slide-to="4"></li>
 			  	</ol>
 
 				<div class="carousel-inner">
-					<div class="item">
+					<div class="item active">
 						<img src="images/segments/fmcg-1.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-					<div class="item active">
+					<div class="item">
 						<img src="images/segments/fmcg-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
 				    <div class="item">
@@ -122,6 +123,9 @@
 				    </div> 
 				   	<div class="item">
 						<img src="images/segments/fmcg-4.jpg" class="thumbnail img-responsive" alt=""> 
+				    </div> 
+				    <div class="item">
+						<img src="images/segments/fmcg-5.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
 				</div>
 				
@@ -158,15 +162,15 @@
 			  	</ol>
 
 				<div class="carousel-inner">
-					<div class="item">
+					<div class="item active">
 						<img src="images/segments/engineering-1.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-					<div class="item active">
+					<div class="item">
 						<img src="images/segments/engineering-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
 				    <div class="item">
 						<img src="images/segments/engineering-3.jpg" class="thumbnail img-responsive" alt=""> 
-				    </div> 
+				    </div>
 				</div>
 				
 				<a class="left carousel-control hidden-xs" href="#engineering-carousel-slider" data-slide="prev">
@@ -201,15 +205,15 @@
 			  	</ol>
 
 				<div class="carousel-inner">
-					<div class="item">
+					<div class="item active">
 						<img src="images/segments/hospitality-1.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-					<div class="item active">
+					<div class="item">
 						<img src="images/segments/hospitality-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
 				    <div class="item">
 						<img src="images/segments/hospitality-3.jpg" class="thumbnail img-responsive" alt=""> 
-				    </div> 
+				    </div>
 				</div>
 				
 				<a class="left carousel-control hidden-xs" href="#hospitality-carousel-slider" data-slide="prev">
@@ -240,19 +244,15 @@
 			  	<ol class="carousel-indicators visible-xs">
 				    <li data-target="#manufacturing-carousel-slider" data-slide-to="0" class="active"></li>
 				    <li data-target="#manufacturing-carousel-slider" data-slide-to="1"></li>
-				    <li data-target="#manufacturing-carousel-slider" data-slide-to="2"></li>
 			  	</ol>
 
 				<div class="carousel-inner">
-					<div class="item">
+					<div class="item active">
 						<img src="images/segments/manufacturing-1.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-					<div class="item active">
+					<div class="item">
 						<img src="images/segments/manufacturing-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
-				    <div class="item">
-						<img src="images/segments/manufacturing-3.jpg" class="thumbnail img-responsive" alt=""> 
-				    </div> 
 				</div>
 				
 				<a class="left carousel-control hidden-xs" href="#manufacturing-carousel-slider" data-slide="prev">
@@ -285,10 +285,10 @@
 			  	</ol>
 
 				<div class="carousel-inner">
-					<div class="item">
+					<div class="item active">
 						<img src="images/segments/packaging-1.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-					<div class="item active">
+					<div class="item">
 						<img src="images/segments/packaging-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
 				    <div class="item">
@@ -327,10 +327,10 @@
 			  	</ol>
 
 				<div class="carousel-inner">
-					<div class="item">
+					<div class="item active">
 						<img src="images/segments/pharmaceutical-1.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-					<div class="item active">
+					<div class="item">
 						<img src="images/segments/pharmaceutical-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
 				    <div class="item">

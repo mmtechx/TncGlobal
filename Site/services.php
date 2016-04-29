@@ -143,7 +143,9 @@ We strive to create value for our customers by focusing on more vertically integ
         <div class="container">
             <div class="get-started center wow fadeInDown">
                 <h2>Ready to get started</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore  magna aliqua. <br>  Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
+                <p class="lead">TNC Global is capable of supplying products in a timely, efficient and flexible manner to meet the needs of our customers. This requires us to be in regular contact with our customers and be ready to modify deliveries and products if the client needs should change.<br/>
+                We constantly create and develop methodologies that serve as the framework for our daily tasks.</p>
+                
                 <div class="request">
                     <h4><a href="contact-us.php#contact-page">Request a free Quote</a></h4>
                 </div>

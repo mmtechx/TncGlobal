@@ -52,7 +52,7 @@
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
+                                    <h5>Contact Details</h5>
                                     <p>P.O. Box 594, Sydney Markets, <br>
                                     Sydney, NSW 2129 <br>
                                     Australia</p>
@@ -75,7 +75,7 @@
             </div> 
             <div class="row contact-wrap"> 
                 <div class="status alert alert-success" style="display: none"></div>
-                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" enctype="multipart/form-data" action="sendemail.php">
                     <div class="col-sm-5 col-sm-offset-1">
                         <div class="form-group">
                             <label>Name *</label>
@@ -87,11 +87,11 @@
                         </div>
                         <div class="form-group">
                             <label>Phone</label>
-                            <input type="number" class="form-control">
+                            <input type="number" name="phone" id="phone" class="form-control">
                         </div>
                         <div class="form-group">
                             <label>Company Name</label>
-                            <input type="text" class="form-control">
+                            <input type="text" name="company" id="company" class="form-control">
                         </div>                        
                     </div>
                     <div class="col-sm-5">

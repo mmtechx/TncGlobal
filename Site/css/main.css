@@ -120,7 +120,7 @@ body > section {
 
 .center {
   text-align: center;
-  padding-bottom: 55px;
+  padding-bottom: 20px;
 }
 
 .scaleIn {
@@ -280,7 +280,7 @@ input.search-form:hover {
  }
 
 .navbar-nav>li{
-  margin-left: 35px;
+  margin-left: 25px;
   padding-bottom: 28px;
 }
 
@@ -554,10 +554,8 @@ input.search-form:hover {
 
 
 #intro {
-  /*background: #c9c9c9;*/ /*#f2f2f2;*/
-  /*background-image: url(../images/intro-bg.png);*/
-  background: #c9c9c9 url(../images/intro-bg.png) no-repeat 90% 0;
-  /*background-color: rgba(247,163,0,.85);*/
+  /*background-color: #c9c9c9;*/
+  background-color: #024c7d;
   padding-bottom: 20px;
   margin-top: 5px;
 }
@@ -567,7 +565,8 @@ input.search-form:hover {
   line-height: 46px;
   font-weight: 500;
   font-style: italic;
-  color: #024c7d;
+  /*color: #024c7d;*/
+  color: #fff;
 }
 
 .intro{
@@ -1366,7 +1365,7 @@ a.accordion-toggle  i{
 .skill-wrap {
   display: block;
   overflow: hidden;
-  margin: 60px 0;
+  margin: 30px 0;
 }
 
 .team {
