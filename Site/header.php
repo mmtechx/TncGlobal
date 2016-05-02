@@ -9,10 +9,10 @@
     <div class="top-bar">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-xs-4">
+                <div class="col-xs-6">
                     <div class="top-number"><p><i class="fa fa-phone-square"></i> +61 404 238 776</p></div>
                 </div>
-                <div class="col-sm-6 col-xs-8">
+                <div class="col-xs-6">
                    <div class="social">
                         <ul class="social-share">
                             <li><a href="https://www.facebook.com/tncglobal.pty.ltd/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -41,7 +41,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><img src="images/logo.png" title="TNC Global" alt="TNC Global logo"></a>
+                <a class="navbar-brand" href="index.php"><img id="logo" src="images/logo.png" title="TNC Global" alt="TNC Global logo"></a>
             </div>
 			
             <div class="collapse navbar-collapse navbar-right">
