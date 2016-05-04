@@ -57,8 +57,8 @@
                     </li> -->
                     <li class="<?php if ($pageName=="services.php") {echo "active"; } else  {echo "";}?>"><a href="services.php">Our Services</a></li>
                     
-                    <li class="<?php if ($pageName=="privacy.php") {echo "active"; } else  {echo "";}?>"><a href="privacy.php">Privacy Policy</a></li>
-                    <li class="<?php if ($pageName=="terms-and-conditions.php") {echo "active"; } else  {echo "";}?>"><a href="terms-and-conditions.php">Terms & Conditions</a></li>
+<!--                     <li class="<?php if ($pageName=="privacy.php") {echo "active"; } else  {echo "";}?>"><a href="privacy.php">Privacy Policy</a></li>
+                    <li class="<?php if ($pageName=="terms-and-conditions.php") {echo "active"; } else  {echo "";}?>"><a href="terms-and-conditions.php">Terms & Conditions</a></li> -->
                     <li class="<?php if ($pageName=="contact-us.php") {echo "active"; } else  {echo "";}?>"><a href="contact-us.php">Contact Us</a></li>                        
                 </ul>
             </div>

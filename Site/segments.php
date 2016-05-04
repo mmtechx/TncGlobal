@@ -108,7 +108,6 @@
 				    <li data-target="#fmcg-carousel-slider" data-slide-to="1"></li>
 				    <li data-target="#fmcg-carousel-slider" data-slide-to="2"></li>
 				    <li data-target="#fmcg-carousel-slider" data-slide-to="3"></li>
-				    <li data-target="#fmcg-carousel-slider" data-slide-to="4"></li>
 			  	</ol>
 
 				<div class="carousel-inner">
@@ -118,14 +117,11 @@
 					<div class="item">
 						<img src="images/segments/fmcg-2.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div>
-				    <div class="item">
+				   	<div class="item">
 						<img src="images/segments/fmcg-3.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
-				   	<div class="item">
-						<img src="images/segments/fmcg-4.jpg" class="thumbnail img-responsive" alt=""> 
-				    </div> 
 				    <div class="item">
-						<img src="images/segments/fmcg-5.jpg" class="thumbnail img-responsive" alt=""> 
+						<img src="images/segments/fmcg-4.jpg" class="thumbnail img-responsive" alt=""> 
 				    </div> 
 				</div>
 				
@@ -141,7 +137,7 @@
 			<div class="skill-wrap clearfix">
 				<div class="wow fadeInDown">
 					<p>Hygiene and food safety is critical to food processing to ensure that food products are fit for human consumption and free from contaminants that could cause risk to human health due to microorganisms, including bacteria, viruses, parasites and moulds, toxins or agricultural chemicals Food hygiene can also help prevent food spoilage and protects against wastage and loss for food producers.</p>
-					<p>TNC Global has a wide range of hygiene products that can help your business increase the safety, control and eliminate any risks associated. Our product range is listed below:</p>
+					<p>TNC Global has a wide range of hygiene products that can help your business increase the safety, control and eliminate any risks associated.</p>
 					
 				</div>
 			</div>

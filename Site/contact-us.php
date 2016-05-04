@@ -57,7 +57,7 @@
                                     Sydney, NSW 2129 <br>
                                     Australia</p>
                                     <p>Phone: +61 404 238 776<br>
-                                    Email:  sales@tncglobal.com.au</p>
+                                    Email:  info@tncglobal.com.au</p>
                                 </address>
                             </li>
                         </ul>
