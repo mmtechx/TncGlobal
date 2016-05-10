@@ -5,11 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
-    <meta name="keywords" content="TNC Global, Services, Consultancy, Project Management, Design Management, Products, Equipments, Packaging, food processing, engineering, hospitality, manufacturing, pharceutical, food safety, business model, supply chain, 
-                                    quality assurance, ports, Hygiene"/>
     <meta name="description" content="TNC Global is a privately owned internationally focused Australian owned business. We operate an integrated business model with the full range of food processing industries, engineering and services delivering."/>
 
-    <title>Our Services | TNC Global Pty Ltd</title>
+    <title>Consultancy, Project Design & Supply Chain Management | TNC Global</title>
     
     <!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
